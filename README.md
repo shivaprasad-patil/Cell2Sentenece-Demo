@@ -15,5 +15,8 @@ python demo_cell2sentence.py --data-file "anndata.h5ad" --model-path "gpt_2_mode
 
 
 ## Link to Cell2Sentence
+
+
 https://research.google/blog/teaching-machines-the-language-of-biology-scaling-large-language-models-for-next-generation-single-cell-analysis/
+
 https://github.com/vandijklab/cell2sentence
