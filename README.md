@@ -1,5 +1,5 @@
 # Cell2Sentenece-Demo
-This script demonstrates how to train a Cell2Sentence model from scratch using single-cell RNA-seq data. It includes all the working components with local model loading support. I wrote thsi script to get a better understanding of the Cell2Sentence architecture.
+This script demonstrates how to train a Cell2Sentence model from scratch using single-cell RNA-seq data. It includes all the working components with local model loading support. I wrote this script to get a better understanding of the Cell2Sentence architecture.
 
 ## Key Features:
 - Load local GPT-2 models and tokenizers using GPT2Tokenizer.from_pretrained(), Any LLM can be used, the script uses GPT-2.
